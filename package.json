@@ -1,9 +1,12 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dependencies": {
     "@tailwindcss/vite": "^4.1.3",
     "tailwindcss": "^4.1.3"
 =======
+=======
+>>>>>>> 709b00801d44a55513ecbf635c1ae790c410d8dd
   "name": "wallet-watch-backend",
   "version": "1.0.0",
   "description": "**Wallet Watch** is a smart and intuitive web-based expense tracker designed to help you keep an eye on your finances. Whether you're budgeting for the month or just curious where your chai money goes — Wallet Watch makes it easy to track expenses, analyze spending habits, and manage your financial goals.",
@@ -27,6 +30,9 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.9"
+<<<<<<< HEAD
+>>>>>>> 709b00801d44a55513ecbf635c1ae790c410d8dd
+=======
 >>>>>>> 709b00801d44a55513ecbf635c1ae790c410d8dd
   }
 }
